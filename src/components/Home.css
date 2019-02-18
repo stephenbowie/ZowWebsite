@@ -1,0 +1,31 @@
+.jumbotron {
+    margin-bottom: 4em;
+}
+
+.HomeJumbo {
+    height: 100%;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0.1);
+}
+
+.HomeJumbo .h2 {
+    color : white;
+}
+
+
+.container{
+   
+    width: 100%;
+   height: 800px;
+}
+.headerImage
+{
+    height: 100%;
+    width: 100%;
+    background: url("../components/homepage-header-bg-3-01.jpg");
+}
+
+
+.roundProfile {
+    border-radius: 50%;
+}
